@@ -3,6 +3,13 @@ vqa_net
 
 Explore VQA network architecture
 
+Data
+------------
+
+1. Download the data by running the following command:
+`bash tools/download.sh`
+
+
 Project Organization
 ------------
 
